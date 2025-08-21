@@ -1,0 +1,9 @@
+[submodule "NUMT-Filtering-Pipeline"]
+	path = NUMT-Filtering-Pipeline
+	url = https://github.com/NathanielFisher1/NUMT-Filtering-Pipeline
+[submodule "iCaMP_Lab_RNA-seq_Variant_Calling_Pipeline"]
+	path = iCaMP_Lab_RNA-seq_Variant_Calling_Pipeline
+	url = https://github.com/NathanielFisher1/iCaMP_Lab_RNA-seq_Variant_Calling_Pipeline
+[submodule "iCaMP_Lab_WGS_Variant_Calling_Pipeline"]
+	path = iCaMP_Lab_WGS_Variant_Calling_Pipeline
+	url = https://github.com/jcunha2023/iCaMP_Lab_WGS_Variant_Calling_Pipeline
