@@ -4,9 +4,10 @@
 [submodule "iCaMP_Lab_WGS_Variant_Calling_Pipeline"]
 	path = iCaMP_Lab_WGS_Variant_Calling_Pipeline
 	url = https://github.com/jcunha2023/iCaMP_Lab_WGS_Variant_Calling_Pipeline
-[submodule "iCaMP_Lab_NUMT_Filtering_Pipeline"]
-	path = iCaMP_Lab_NUMT_Filtering_Pipeline
-	url = https://github.com/NathanielFisher1/iCaMP_Lab_NUMT_Filtering_Pipeline
 [submodule "iCaMP_Lab_RNA-seq_Variant_Filtering"]
 	path = iCaMP_Lab_RNA-seq_Variant_Filtering
 	url = https://github.com/NathanielFisher1/iCaMP_Lab_RNA-seq_Variant_Filtering
+[submodule "iCaMP_Lab_NUMT_Filtering_Pipeline"]
+	path = iCaMP_Lab_NUMT_Filtering_Pipeline
+	url = https://github.com/NathanielFisher1/iCaMP_Lab_NUMT_Filtering_Pipeline.git
+	branch = master
